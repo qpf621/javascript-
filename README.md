@@ -1,2 +1,2 @@
-# AF
-AF项目答辩
+# javascript
+javascript日常小练习
